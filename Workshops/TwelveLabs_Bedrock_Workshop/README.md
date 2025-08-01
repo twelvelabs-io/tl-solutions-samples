@@ -1,5 +1,10 @@
 # TwelveLabs on Amazon Bedrock Workshop
 
+<p align="center">
+  <img src="twelvelabs-bedrock.webp" alt="TwelveLabs on Amazon Bedrock" width="500"/>
+</p>
+
+
 These hands-on workshops introduce how to use TwelveLabs models on Amazon Bedrock. The workshops are designed to help you understand how to leverage TwelveLabs' video understanding capabilities within the Bedrock ecosystem, with step-by-step guides and example notebooks.
 
 Check the [documentation](https://docs.aws.amazon.com/bedrock/latest/userguide/models-regions.html) for the latest list of supported regions for each model.
