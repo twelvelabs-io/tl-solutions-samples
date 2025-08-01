@@ -1,7 +1,7 @@
 # TwelveLabs on Amazon Bedrock Workshop
 
 <p align="center">
-  <img src="twelvelabs-bedrock.webp" alt="TwelveLabs on Amazon Bedrock" width="500"/>
+  <img src="twelvelabs-bedrock.png" alt="TwelveLabs on Amazon Bedrock" width="500"/>
 </p>
 
 
