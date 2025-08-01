@@ -39,6 +39,7 @@ Check the [documentation](https://docs.aws.amazon.com/bedrock/latest/userguide/m
 
 ```
 git clone https://github.com/twelvelabs-io/tl-solutions-samples.git
+cd tl-solutions-samples/Workshops/TwelveLabs_Bedrock_Workshop
 ```
 
 **Step 2: Open and walk through notebook**
