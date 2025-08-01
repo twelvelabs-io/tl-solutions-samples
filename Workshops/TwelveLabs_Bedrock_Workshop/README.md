@@ -12,10 +12,9 @@ Check the [documentation](https://docs.aws.amazon.com/bedrock/latest/userguide/m
 
 ## Getting Started
 
-### Option 1: AWS Workshop Studio
+### Option 1: AWS Workshop Studio (coming soon...)
 
-### Option 2: CloudFormation Template
-
+### Option 2: CloudFormation Template (coming soon...)
 **Step 1: Deploy CloudFormation Template**
 
 **Step 2: Access SageMaker Studio**
@@ -24,13 +23,24 @@ Check the [documentation](https://docs.aws.amazon.com/bedrock/latest/userguide/m
 
 ### Option 3: Manual Setup
 
-**Step 1: Configure AWS Credentials**
+**Prerequisites**
+1. [Create S3 Bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/create-bucket-overview.html)
+2. [Create an OpenSearch Serverless Collection](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/serverless-manage.html)
+3. [Open a Juypter environment](https://jupyter.org/install)
+4. [Configure AWS credentials for boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/credentials.html)
+5. [Enable access to TwelveLabs models on Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-access-modify.html)
 
-**Step 2: Create S3 Bucket**
+**Step 1: Clone this repo**
 
-**Step 3: Create OpenSearch Serverless Collection**
+```
+git clone https://github.com/twelvelabs-io/tl-solutions-samples.git
+```
 
-**Step 4: Run Notebook Locally**
+**Step 2: Open and walk through notebook**
+
+Open [tl-marengo-bedrock-workshop.ipynb](tl-marengo-bedrock-workshop.ipynb) for the Marengo on Bedrock workshop or [tl-pegasus-bedrock-workshop.ipynb](tl-pegasus-bedrock-workshop.ipynb) for the Pegasus on Bedrock workshop.
+
+Follow the instructions in the notebooks to update the required variables.
 
 ## Resources
 - [AWS Docs: TwelveLabs on Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-twelvelabs.html)
