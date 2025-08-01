@@ -1,8 +1,8 @@
 # TwelveLabs on Amazon Bedrock Workshop
 
-These hands-on workshops introduce how to use TwelveLabs models on Amazon Bedrock. The workshops are designed to help you understand how to leverage TwelveLabs' video understanding capabilities within the Bedrock ecosystem, with step-by-step guides and example notebooks.
+These hands-on workshops introduce how to use [TwelveLabs models on Amazon Bedrock](https://aws.amazon.com/bedrock/twelvelabs/). The workshops are designed to help you understand how to leverage TwelveLabs' video understanding capabilities within the Bedrock ecosystem, with step-by-step guides and example notebooks.
 
-Check the [documentation](https://docs.aws.amazon.com/bedrock/latest/userguide/models-regions.html) for the latest list of supported regions for each model.
+Check the [Bedrock documentation](https://docs.aws.amazon.com/bedrock/latest/userguide/models-regions.html) for the latest list of supported regions for each model. Learn more about the integration on the [TwelveLabs documentation](https://docs.twelvelabs.io/v1.3/docs/cloud-partner-integrations/amazon-bedrock).
 
 <p align="center">
   <img src="twelvelabs-bedrock.png" alt="TwelveLabs on Amazon Bedrock" width="500"/>
@@ -49,5 +49,6 @@ Open [tl-marengo-bedrock-workshop.ipynb](tl-marengo-bedrock-workshop.ipynb) for 
 Follow the instructions in the notebooks to update the required variables.
 
 ## Resources
+- [AWS Launch Announcement](https://aws.amazon.com/about-aws/whats-new/2025/07/twelvelabs-models-fully-managed-amazon-bedrock/)
 - [AWS Docs: TwelveLabs on Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-twelvelabs.html)
 - [AWS Blog: TwelveLabs video understanding models are now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/twelvelabs-video-understanding-models-are-now-available-in-amazon-bedrock/)
