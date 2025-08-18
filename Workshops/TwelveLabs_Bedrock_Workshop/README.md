@@ -12,6 +12,7 @@ Check the [Bedrock documentation](https://docs.aws.amazon.com/bedrock/latest/use
 ### Workshop Catalog
 | Workshop Name               | Notebook File Name                                               |
 |-----------------------------|------------------------------------------------------------------|
+| TwelveLabs on Bedrock Workshop | [twelvelabs-bedrock-workshop.ipynb](twelvelabs-bedrock-workshop.ipynb) |
 | Marengo on Bedrock Workshop | [tl-marengo-bedrock-workshop.ipynb](tl-marengo-bedrock-workshop.ipynb) |
 | Pegasus on Bedrock Workshop | [tl-pegasus-bedrock-workshop.ipynb](tl-pegasus-bedrock-workshop.ipynb) |
 
