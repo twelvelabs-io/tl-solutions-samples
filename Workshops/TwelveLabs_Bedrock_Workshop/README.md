@@ -13,8 +13,6 @@ Check the [Bedrock documentation](https://docs.aws.amazon.com/bedrock/latest/use
 | Workshop Name               | Notebook File Name                                               |
 |-----------------------------|------------------------------------------------------------------|
 | TwelveLabs on Bedrock Workshop | [twelvelabs-bedrock-workshop.ipynb](twelvelabs-bedrock-workshop.ipynb) |
-| Marengo on Bedrock Workshop | [tl-marengo-bedrock-workshop.ipynb](tl-marengo-bedrock-workshop.ipynb) |
-| Pegasus on Bedrock Workshop | [tl-pegasus-bedrock-workshop.ipynb](tl-pegasus-bedrock-workshop.ipynb) |
 
 ## Getting Started
 
@@ -44,7 +42,7 @@ cd tl-solutions-samples/Workshops/TwelveLabs_Bedrock_Workshop
 
 **Step 2: Open and walk through notebook**
 
-Open [tl-marengo-bedrock-workshop.ipynb](tl-marengo-bedrock-workshop.ipynb) for the Marengo on Bedrock workshop or [tl-pegasus-bedrock-workshop.ipynb](tl-pegasus-bedrock-workshop.ipynb) for the Pegasus on Bedrock workshop.
+Open [twelvelabs-bedrock-workshop.ipynb](twelvelabs-bedrock-workshop.ipynb) to run through the workshop.
 
 Follow the instructions in the notebooks to update the required variables.
 
