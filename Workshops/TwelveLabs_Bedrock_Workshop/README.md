@@ -34,7 +34,6 @@ Check the [Bedrock documentation](https://docs.aws.amazon.com/bedrock/latest/use
 2. [Create an OpenSearch Serverless Collection](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/serverless-manage.html)
 3. [Open a Juypter environment](https://jupyter.org/install)
 4. [Configure AWS credentials for boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/credentials.html)
-5. [Enable access to TwelveLabs models on Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-access-modify.html)
 
 **Step 1: Clone this repo**
 
